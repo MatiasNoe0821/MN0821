@@ -1,3 +1,4 @@
+html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -61,15 +62,15 @@
 
 <header>
     <div class="container">
-        <h1>Matias Noe/h1>
-        <p>Desarrollador Web | Diseñador Gráfico</p>
+        <h1>Noe Matias</h1>
+        <p>Desarrollador Web | Asistente Virtual</p>
     </div>
 </header>
 
 <div class="container">
     <div class="about">
         <h2>Sobre mí</h2>
-        <p>¡Hola! Soy un desarrollador web apasionado por crear experiencias digitales impactantes. Tengo experiencia en HTML, CSS, JavaScript y frameworks como React.</p>
+        <p>Hola buenos días, mi nombre es Noe Matias. Tengo diez años de experiencia en administrativo, atención al cliente y asistente virtual. Referencias destacadas por mi puntualidad y calidad en los servicios prestados. Soy una persona versátil capaz de realizar varias tareas simultáneamente, con amplia experiencia en entornos laborales donde se valora el compromiso y la capacidad de trabajar en equipo. Me caracterizo por mi dinamismo, proactividad y entusiasmo. Poseo buenos conocimientos digitales y busco desarrollarme profesionalmente. Actualmente, estoy cursando segundo año de analista en sistemas con conocimientos en Python y Autocad. Además, estoy realizando un curso de Desarrollador Full Stack Developer: Desarrollo web, JavaScript, React Js, Programación Backend I, II y III, y cuento con certificación en Desarrollo de Apps Móviles e introducción al Desarrollo web con HTML y CSS.</p>
     </div>
 
     <h2>Proyectos</h2>
@@ -94,7 +95,7 @@
 
 <footer>
     <p>Contacto: miemail@example.com</p>
-    <p>Redes Sociales: <a href="#" style="color: #ffffff;">LinkedIn</a> | <a href="#" style="color: #ffffff;">GitHub</a></p>
+    <p>Redes Sociales: <a href="https://www.linkedin.com/in/matias-nicolas-noe-deamelio-297712241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="color: #ffffff;">LinkedIn</a> | <a href="#" style="color: #ffffff;">GitHub</a></p>
 </footer>
 
 </body>
